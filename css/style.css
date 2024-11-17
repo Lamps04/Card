@@ -46,6 +46,14 @@ body {
   text-align: center;
 }
 
+.portifolio-link {
+  text-align: center;
+  color: #168aad;
+  font-weight: 600;
+  font-size: 25px;
+  font-family: 'Poppins', sans-serif;
+}
+
 .vcard-profile-description-contact {
   text-align: center;
   border-radius: 5px;
